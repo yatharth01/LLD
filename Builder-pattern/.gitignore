@@ -1,0 +1,44 @@
+# IntelliJ IDEA specific files
+*.idea/
+*.iws
+*.iml
+*.ipr
+
+*.out/
+
+# Java specific files
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific files
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Directory-based project format
+.idea/
+
+# File-based project format
+*.ipr
+*.iws
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IntelliJ IDEA's workspace file
+*.xml
