@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cff94ff9-960f-477a-b908-4a480957dc57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PaymentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Builder-pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Observer-design-pattern/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Asus/Desktop/Prep/LLD/Design Patterns/Strategy-design-pattern"
   }
 }]]></component>
   <component name="RunManager">
